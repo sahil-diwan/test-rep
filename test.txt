@@ -1,2 +1,6 @@
 This is Sahil Diwan
+<<<<<<< HEAD
 Master2
+=======
+Child2
+>>>>>>> child2
